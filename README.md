@@ -1,6 +1,8 @@
 
 
 # ECR-Deployer
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/itsadeadh2/ecr-deployer)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/itsadeadh2/ecr-deployer)
 
 
 A simple docker in docker image pre-configured with the tools necessary to push images to [AWS ECR](https://aws.amazon.com/en/ecr/ "AWS ECR"). Intended to be used in CI/CD pipelines.
